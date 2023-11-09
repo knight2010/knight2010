@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - I'm a iOS engineer.
-- 👯 I’m looking to collaborate on your team...
-- Baby fancier.
+- Coding 🏎 Swift Vapor SwiftUI etc💌..
+- 👀 I’m looking to collaborate on your team...
+- Architect capability in mobile platform. Good understanding of software design principle(Don’t stupid, GRASP SOLID).
 ```
 
   _  __  _   _   ___    ____   _   _   _____    ___   
