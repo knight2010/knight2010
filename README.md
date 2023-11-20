@@ -14,8 +14,9 @@
 
 ```
 
+![](https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=false&column=7&row=1&margin-w=6&no-bg=false)
+
 <p float="left">
-  <img align="center" height="320px" src="https://github-contributor-stats.vercel.app/api?username=Ryu0118&limit=10&theme=outrun&combine_all_yearly_contributions=true&hide=B" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattt"/> 
 </p>
 
