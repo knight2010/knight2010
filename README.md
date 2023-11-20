@@ -14,11 +14,9 @@
 
 ```
 
-![](https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=false&column=7&row=1&margin-w=6&no-bg=false)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattt"/> 
 
-<p float="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattt"/> 
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Ryu0118&theme=algolia&no-frame=false&column=7&row=1&margin-w=6&no-bg=false)
 
 <!--
 **pmtao/pmtao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
