@@ -15,7 +15,7 @@
 ```
 
 <p float="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mattt&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
+  <img align="center" height="320px" src="https://github-contributor-stats.vercel.app/api?username=Ryu0118&limit=10&theme=outrun&combine_all_yearly_contributions=true&hide=B" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattt"/> 
 </p>
 
